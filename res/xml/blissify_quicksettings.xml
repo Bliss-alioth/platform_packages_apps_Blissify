@@ -128,6 +128,12 @@
             android:summary="@string/qs_tile_vertical_layout_summary"
             android:defaultValue="false"/>
 
+        <com.bliss.support.preferences.SystemSettingSwitchPreference
+            android:key="qs_dual_tone"
+            android:title="@string/qs_dual_tone_title"
+            android:summary="@string/qs_dual_tone_summary"
+            android:defaultValue="true" />
+
         <com.android.settingslib.widget.LayoutPreference
             android:key="apply_change_button"
             android:layout="@layout/qs_tile_apply_change_button" />
