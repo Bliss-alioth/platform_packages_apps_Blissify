@@ -477,6 +477,9 @@
     <string name="qs_transparency_title">Background transparency</string>
     <string name="qs_transparency_summary">Set transparency level for QS background</string>
 
+    <!-- QS Tiles Layout -->
+    <string name="qs_layout_title">QS Layout Customizations</string>
+
     <!-- QS tiles layout -->
     <string name="qs_layout_category_title">QuickSettings</string>
     <string name="qs_tile_layout_title">QS tiles layout</string>
